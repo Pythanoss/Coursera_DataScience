@@ -1,2 +1,2 @@
-# Coursera_DataScience
-This repository is created for learning purpose and to perform the assignment experiments.
+Introduction
+People often move from country to country or between cities for work meetings, where they dont know much about the neighborhoods of that particular city. So they may struggle to find the perfect hotel near thier work place. Hence this problem is solved by gathering the data of city and make the clusters of all the hotels. So that when user will put the location of his work place he will get recommendation of all the hotels near that location which are present in the same cluster.
